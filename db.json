@@ -10,5 +10,10 @@
 
   "documentUrl": "http://doc/docId"
 
-}
+},
+  "Posts":{
+    "status": "Success",
+    "message": "Download receipt request processed successfully",
+  }
+  
 }
