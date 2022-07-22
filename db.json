@@ -1,0 +1,14 @@
+{
+"Response":
+{
+
+  "serviceRequestId": "f491f6b1-aa9b-43de-93b0-c85eda706a2c",
+
+  "status": "Success",
+
+  "message": "Download receipt request processed successfully",
+
+  "documentUrl": "http://doc/docId"
+
+}
+}
